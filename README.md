@@ -10,4 +10,4 @@ I'm always looking to expand my horizons though and I've been delving little by 
 
 Thanks for taking the time to read this, check out my toolsets and feel free to ask questions/open issues/contibute where you see fit.
 
-[![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhershman1)](https://github.com/dhershman1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhershman1&hide=css,html)](https://github.com/dhershman1/github-readme-stats)
+[![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhershman1)](https://github.com/dhershman1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhershman1&hide=css,html&layout=compact)](https://github.com/dhershman1/github-readme-stats)
