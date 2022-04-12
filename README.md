@@ -2,7 +2,7 @@
 
 Hello! 👋 Welcome to my profile
 
-I'm Dustin, a Fullstack Software Engineer with 7 years of experience!
+I'm Dustin, a Fullstack Software Engineer,
 
 I'm a Functional Developer at heart, and my most used toolset/language is JavaScript. I've authored many cool and fun libraries for the language!
 
